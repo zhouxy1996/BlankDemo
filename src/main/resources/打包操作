@@ -1,0 +1,5 @@
+右击 - run As - maven clean 
+右击 - run As  maven install 
+
+Maven Install报错：Perhaps you are running on a JRE rather than a JDK?
+https://www.jianshu.com/p/1ed0ec397575

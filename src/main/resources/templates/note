@@ -1,0 +1,6 @@
+1、进度条
+	NProgress.start(); 
+	NProgress.done();
+	NProgress.remove();
+	
+https://element.eleme.cn/#/zh-CN/component/layout

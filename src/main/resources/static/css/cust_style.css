@@ -1,0 +1,39 @@
+.el-popover{
+  height: 250px; 
+  overflow: auto;
+}
+
+.check-item{
+	width:300px;
+	white-space:nowrap; /*文本不换行*/
+	
+	
+}
+
+body {
+	background-color: #C7EDCC;
+}
+
+p{
+	font-size:10px;
+}
+ul li{
+	font-size:10px;
+}
+.icon {
+	padding: 0 5px 0 2px;
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-play-circle:before {
+	content: "♘";
+}
