@@ -12,7 +12,7 @@
 	<artifactId>rcxj</artifactId>
 	<version>0</version>
 	<name>demo</name>
-	<description>demo project for spring boot</description>
+	<description>demo  for spring boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
